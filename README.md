@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aurel or you can call me Marc
+- 👋 Hi, I’m Marc-Aurel, or call me Marc
 - 👀 I’m interested in automation with AI and map animation
 -  I wrote severals py scripts for yt automation: text to image prompts, paste yt script - get 1000 images
 -  Using APIs open AI, replicate and fluxs models  
